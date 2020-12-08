@@ -4,7 +4,7 @@
 - 💡 I’m currently taking up time with Machine Learning / Deep Learning on Coursera
 - 🔋 I’m currently working on master thesis project "Autonomous charging system"
 - 📫 How to reach me: lucaromanello1997@gmail.com 
-- 🦾 Let's visit my profile https://ibrahimovic19974.wixsite.com/website
+- 🦾 Let's visit my portfolio https://ibrahimovic19974.wixsite.com/website
 - 🏋🏻 Work out and Movies passionate 🎞
 
 <!--
