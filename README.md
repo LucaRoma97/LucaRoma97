@@ -5,7 +5,7 @@
 - 🔋 I’m currently working on master thesis project "Autonomous charging system"
 - 📫 How to reach me: lucaromanello1997@gmail.com 
 - 🦾 Let's visit my profile https://ibrahimovic19974.wixsite.com/website
-- 🏋🏻 Work out and Movies passions 🎞
+- 🏋🏻 Work out and Movies passionate 🎞
 
 <!--
 **LucaRoma97/LucaRoma97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
