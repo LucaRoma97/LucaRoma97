@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 👷🏼‍♂️ I've got a BSc in Mechanical Engineering
 - 👨🏻‍💻 I've got a MSc in Mechatronics Engineering
-- 💡 I’m currently taking up time with Machine Learning / Deep Learning on Coursera
+- 💡 I’m currently taking up time with Deep Learning / Self-driving projects
 - 🔋 I’m currently working on master thesis project "Autonomous charging system"
+- 🚉 I am a Technical Sales Consultant at Siemens
 - 📫 How to reach me: lucaromanello1997@gmail.com 
 - 🦾 Let's visit my portfolio https://ibrahimovic19974.wixsite.com/website
 - 🏋🏻 Work out and Movies passionate 🎞
