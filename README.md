@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 👷🏼‍♂️ I've got a BSc in Mechanical Engineering
-- 👨🏻‍💻 I've got a MSc in Mechatronics Engineering
-- 💡 I’m currently a PhD candidate for TU Munich and Imperial College London within the development of aerial-aquatic drones
+- 👷🏼‍♂️ BSc in Mechanical Engineering
+- 👨🏻‍💻 MSc in Mechatronics Engineering
+- 💡 Currently a PhD candidate for TU Munich and Imperial College London within the development of aerial-aquatic drones
 - 📫 How to reach me: lucaromanello1997@gmail.com 
 - 🦾 Let's visit my portfolio https://ibrahimovic19974.wixsite.com/website
-- 🏋🏻 Work out and Movies passionate 🎞
+- 🏋🏻 Calisthenics and Movies passionate 🎞
 
 <!--
 **LucaRoma97/LucaRoma97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
